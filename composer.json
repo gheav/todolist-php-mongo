@@ -1,0 +1,20 @@
+{
+    "name": "gheav/todolist-php-mongo",
+    "description": "Todo List App using php mongodb",
+    "require": {
+        "mongodb/mongodb": "^1.12"
+    },
+    "license": "Open-Source",
+    "autoload": {
+        "psr-4": {
+            "Gheav\\TodolistPhpMongo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gilang Heavy",
+            "email": "gilangheavy@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
