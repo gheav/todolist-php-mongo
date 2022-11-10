@@ -1,0 +1,4 @@
+MDB_USER="username"
+MDB_PASS="password"
+MDB_HOST="ip_address"
+MDB_INIT="initial_database"
